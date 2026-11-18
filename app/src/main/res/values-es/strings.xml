@@ -1,0 +1,49 @@
+
+<resources>
+    <!-- Chat -->
+    <string name="chat_status_connected">Conectado</string>
+    <string name="chat_status_scanning">Buscando…</string>
+    <string name="chat_status_offline">Desconectado</string>
+    <string name="chat_empty_title">Todavía no hay mensajes</string>
+    <string name="chat_empty_hint">Saluda a otro usuario cercano de Dolphy. Los mensajes nuevos aparecerán aquí.</string>
+
+    <!-- Aplicación -->
+    <string name="app_name">Dolphy</string>
+    <string name="nav_bluetooth">Bluetooth</string>
+    <string name="nav_modules">Funciones</string>
+    <string name="nav_other">Otros</string>
+    <string name="nav_settings">Ajustes</string>
+
+    <!-- Ajustes -->
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_interface">Interfaz</string>
+    <string name="settings_personalisation">Personalización</string>
+    <string name="settings_functions_menu_view">Vista del menú de funciones</string>
+    <string name="settings_functions_menu_containers">Contenedores</string>
+    <string name="settings_functions_menu_tiles">Mosaicos</string>
+    <string name="settings_functions_tile_size">Tamaño de los mosaicos</string>
+    <string name="settings_app_style">Estilo</string>
+    <string name="settings_app_style_old">Estándar</string>
+    <string name="settings_app_style_new">Compacto</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_auto">Automático</string>
+    <string name="settings_theme_dark">Oscuro</string>
+    <string name="settings_theme_light">Claro</string>
+    <string name="settings_accent_color">Color de acento</string>
+    <string name="settings_custom_color">Color personalizado</string>
+
+    <!-- Botones -->
+    <string name="btn_cancel">Cancelar</string>
+    <string name="action_info">Información</string>
+    <string name="section_recommended">Recomendado</string>
+    <string name="section_pinned">Fijados</string>
+    <string name="section_all_functions">Todas las funciones</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="back">Volver</string>
+    <string name="close">Cerrar</string>
+    <string name="retry">Reintentar</string>
+    <string name="confirm">Confirmar</string>
+</resources>
